@@ -1,0 +1,103 @@
+[
+  {
+    "title": "Physics Homework",
+    "description": "Complete the exercises on projectile motion from Chapter 3. This includes solving problems on velocity, acceleration, and trajectory. Additionally, provide explanations for each step of your solutions.",
+    "marks": 50,
+    "imageUrl": "https://i.ibb.co/n7wRMQL/istockphoto-1673981874-1024x1024.jpg",
+    "difficulty": "medium",
+    "date": "2024-05-15"
+  },
+  {
+    "title": "Math Quiz",
+    "description": "Solve the problems on calculus and algebra. The quiz covers topics such as derivatives, integrals, linear equations, and inequalities. Show all your work and explain your reasoning for each answer.",
+    "marks": 30,
+    "imageUrl": "https://i.ibb.co/cDmPjNt/istockphoto-501221160-1024x1024.jpg",
+    "difficulty": "medium",
+    "date": "2024-05-18"
+  },
+  {
+    "title": "Literature Essay",
+    "description": "Write an essay analyzing the themes in 'To Kill a Mockingbird'. Discuss the symbolism, character development, and social commentary present in the novel. Support your analysis with textual evidence.",
+    "marks": 70,
+    "imageUrl": "https://i.ibb.co/jv39NV7/istockphoto-1724074682-1024x1024.jpg",
+    "difficulty": "hard",
+    "date": "2024-05-20"
+  },
+  {
+    "title": "Chemistry Lab Report",
+    "description": "Perform the titration experiment and submit the lab report. Document the procedure, observations, calculations, and conclusions. Include any unexpected results and possible sources of error.",
+    "marks": 60,
+    "imageUrl": "https://i.ibb.co/gFvdqLr/istockphoto-1206157668-1024x1024.jpg",
+    "difficulty": "medium",
+    "date": "2024-05-22"
+  },
+  {
+    "title": "History Presentation",
+    "description": "Prepare a presentation on the causes of World War I. Explore the political, economic, and social factors that contributed to the outbreak of the war. Use visuals and primary sources to enhance your presentation.",
+    "marks": 40,
+    "imageUrl": "https://i.ibb.co/tpHGPS2/istockphoto-1683875468-1024x1024.jpg",
+    "difficulty": "medium",
+    "date": "2024-05-25"
+  },
+  {
+    "title": "Programming Assignment",
+    "description": "Write a program to implement a simple text-based game. Use concepts such as loops, conditionals, functions, and data structures. Your game should be interactive and engaging for the user.",
+    "marks": 80,
+    "imageUrl": "https://i.ibb.co/JnSCZN4/istockphoto-1254050848-1024x1024.jpg",
+    "difficulty": "hard",
+    "date": "2024-05-28"
+  },
+  {
+    "title": "Biology Research Paper",
+    "description": "Write a research paper on genetic engineering. Explore the history, applications, ethical considerations, and future prospects of genetic modification. Provide references to credible sources.",
+    "marks": 65,
+    "imageUrl": "https://i.ibb.co/0KZfBq5/istockphoto-1287846309-1024x1024.jpg",
+    "difficulty": "hard",
+    "date": "2024-06-01"
+  },
+  {
+    "title": "Geography Map Project",
+    "description": "Create a map highlighting major geographical features of Africa. Include rivers, mountains, deserts, and cultural landmarks. Provide a key or legend for your map.",
+    "marks": 55,
+    "imageUrl": "https://i.ibb.co/xFgVp0L/istockphoto-2084779170-1024x1024.jpg",
+    "difficulty": "medium",
+    "date": "2024-06-05"
+  },
+  {
+    "title": "Economics Case Study",
+    "description": "Analyze the impact of inflation on consumer spending. Use real-world data to illustrate trends and patterns in consumer behavior during periods of inflation. Discuss the implications for businesses and policymakers.",
+    "marks": 45,
+    "imageUrl": "https://i.ibb.co/PcSRvVG/istockphoto-1874009590-1024x1024.jpg",
+    "difficulty": "medium",
+    "date": "2024-06-08"
+  },
+
+  {
+    "title": "Music Composition",
+    "description": "Compose a piece of music inspired by nature. Experiment with different musical elements such as melody, harmony, rhythm, and instrumentation. Provide a score or recording of your composition.",
+    "marks": 60,
+    "imageUrl": "https://i.ibb.co/YBjG0br/istockphoto-637095906-1024x1024.jpg",
+    "difficulty": "medium",
+    "date": "2024-06-15"
+  },
+  {
+    "title": "Psychology Experiment",
+    "description": "Design and conduct an experiment on memory retention. Develop a hypothesis, design the experiment, collect data, and analyze the results. Discuss the implications of your findings.",
+    "marks": 70,
+    "imageUrl": "https://i.ibb.co/rHQkBxL/istockphoto-496291444-1024x1024.jpg",
+    "difficulty": "hard",
+    "date": "2024-06-18"
+  }
+ 
+]
+
+
+
+
+
+
+
+
+
+
+
