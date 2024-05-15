@@ -8,8 +8,10 @@ const port = process.env.PORT || 5000;
 
 // middleware
 app.use(cors({
-  origin: [
+  origin: ['http://localhost:5173',
     'http://localhost:4173',
+    'https://magenta-selkie-5b3812.netlify.app',
+    'https://6644d81d232fe42a3ff37653--magenta-selkie-5b3812.netlify.app',
     'https://online-group-study-70c2a.web.app',
     'https://online-group-study-70c2a.firebaseapp.com'
   ],
@@ -144,7 +146,7 @@ async function run() {
       res.send(result)
     })
     // read all assignment status
-    app.get('/my_assignment/:email', verifyToken, async (req, res) => {
+    app.get('/my_assignment/:email', async (req, res) => {
       const email = req.params.email;
       // const user = req.user.email; 
       // console.log('email' ,email);
@@ -183,7 +185,7 @@ async function run() {
 
 
     // delete assignment
-    app.delete('/assignment_delete/:id', logger, verifyToken, async (req, res) => {
+    app.delete('/assignment_delete/:id', logger, async (req, res) => {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) }
       const result = await assignmentCollection.deleteOne(query)
